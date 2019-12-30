@@ -7,7 +7,7 @@ public class Main {
 		x[0][0] = 1;
 		x[0][1] = 2;
 		x[0][2] = 3;
-		x[0][3] = 4;
+		x[0][3] = 3;
 		x[1][0] = 5;
 		x[1][1] = 6;
 		x[1][2] = 7;
@@ -27,7 +27,7 @@ public class Main {
 		for(int i=0; i<x.length; i++) {
 			diagonal = diagonal + x[i][i];
 			e--;
-			diagonal2 = diagonal2 + x[e][i];
+			diagonal2 = diagonal2 + x[i][e];
 		}
 			
 		System.out.println(diagonal);

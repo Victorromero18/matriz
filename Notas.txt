@@ -1,0 +1,20 @@
+*Github sirve para guardar proyectos y poder traajar con otras personas en equipo.
+
+*Git Bash es el prorama que te permite ejecutar los programas de git.
+
+*Git es el sistema de controles.
+
+*[][] El primer corchete hace referencia a las filas, el segundo a las columnas.
+
+*Declarar variables antes del For hace que la variable pueda aumentar o disminuir de valor.
+
+*Si declaras una variable dentro del For, la variable siempre regresara al valor asignado.
+
+*Para subir archivos a Github se requieren los siguientes pasos:
+	1. Git status
+	2. Git add . 
+	3. Git commit -m "descripcion del proyecto"
+	4.  git push -u origin master
+
+	 
+	
